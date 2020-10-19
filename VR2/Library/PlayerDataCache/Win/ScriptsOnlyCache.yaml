@@ -805,7 +805,7 @@ ScriptsOnlyBuild:
     className: CurrentRoomPlayerTtlProperty
   - hash:
       serializedVersion: 2
-      Hash: 82e649217a87767778e4985365512671
+      Hash: fe20ee95f9373a1f42edd8f3263ccde5
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: vrPlayer
